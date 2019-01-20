@@ -1,17 +1,24 @@
-## new-app
-this is new-app
+# README
 
-### Project Informations
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-- share GitHub repository
+Things you may want to cover:
 
-| key | value |
-| --- | --- |
-|share CircleCi url | xxx |
-|(Project Management System) | xxx |
-|(Invite Slack) | xxx |
-|Download Docker Machine | xxx |
+* Ruby version
 
-## How to Use Docker
-### Docker rebuild
-### Start Server
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
